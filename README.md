@@ -71,10 +71,7 @@ print('connection closed')
 
 ## OUPUT : 
 
-# SERVER.py :
-
-
-# CLIENT.py : 
+<img width="1431" height="425" alt="image" src="https://github.com/user-attachments/assets/543aeadf-68df-4cbf-86d0-81a6bcede5c3" />
 
 
 ## RESULT
